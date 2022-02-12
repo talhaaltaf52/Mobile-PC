@@ -1,0 +1,16 @@
+.Heading_6{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    color: #283785;
+}
+.ul{
+    list-style: none;
+    text-decoration: none;
+}
+.li{
+    font-weight: bold;
+    text-align: center;
+    font-size: small;
+    color: #2370b8;
+}

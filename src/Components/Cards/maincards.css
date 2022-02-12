@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Share+Tech+Mono&display=swap');
+
+.Heading_3{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #283785;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Card_Title{
+    font-weight: bold;
+    color: #283785;
+    font-family: 'Share Tech Mono', monospace;
+}
+.button_4{
+    font-size: medium;
+    font-weight: bold;
+    padding: 5px 15px;
+    background-color: #fff;
+    outline: none;
+    border: 2px solid #283785;
+    color: #283785;
+    border-radius: 8px;
+}
+.button_4:hover{
+    color: #fff;
+    background-color: #283785;
+    transition: .5s;
+}

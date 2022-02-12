@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nobile&display=swap');
+
+.Heading_4{
+    color: #283785;
+    border-bottom: 3px solid #283785;
+    width: 40%;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.Heading_5{
+    color: #000;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.para_3{
+    color: #000;
+    font-weight: lighter;
+    margin-top: 20px;
+    font-family: 'Nobile', sans-serif;
+}
+.about_img{
+    background-size: cover;
+    width: 100%;
+}
